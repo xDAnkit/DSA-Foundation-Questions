@@ -186,7 +186,7 @@ Return the longest word from a sentence.
 `"JavaScript is extremely powerful"`
 
 **Output:**
-`"extremely"`
+`"JavaScript"`
 
 ---
 
